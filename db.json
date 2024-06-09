@@ -13,5 +13,224 @@
       "name": "Vika"
     }
   ],
-  "tests": []
+  "test1": [
+    {
+      "id": 1,
+      "src": "img1-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 2,
+      "src": "img2-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": true },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 3,
+      "src": "img3-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 4,
+      "src": "img4-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": true },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 5,
+      "src": "img5-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": true },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 6,
+      "src": "img6-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": true },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 7,
+      "src": "img7-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": true }
+      ]
+    },
+    {
+      "id": 8,
+      "src": "img8-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": true },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 9,
+      "src": "img9-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 10,
+      "src": "img10-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": true },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 11,
+      "src": "img11-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": true },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 12,
+      "src": "img12-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 13,
+      "src": "img13-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": true },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 14,
+      "src": "img14-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": true },
+        { "id": 3, "num": "В", "result": false },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 15,
+      "src": "img15-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false },
+        { "id": 2, "num": "Б", "result": false },
+        { "id": 3, "num": "В", "result": true },
+        { "id": 4, "num": "Г", "result": false },
+        { "id": 5, "num": "Д", "result": false }
+      ]
+    },
+    {
+      "id": 16,
+      "src": "img16-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true, "order": "1" },
+        { "id": 2, "num": "Б", "result": true, "order": "2" },
+        { "id": 3, "num": "В", "result": true, "order": "3" },
+        { "id": 4, "num": "Г", "result": false, "order": null },
+        { "id": 5, "num": "Д", "result": false, "order": null }
+      ]
+    },
+    {
+      "id": 17,
+      "src": "img17-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": true, "order": "2" },
+        { "id": 2, "num": "Б", "result": false, "order": null },
+        { "id": 3, "num": "В", "result": true, "order": "1" },
+        { "id": 4, "num": "Г", "result": true, "order": "3" },
+        { "id": 5, "num": "Д", "result": false, "order": null }
+      ]
+    },
+    {
+      "id": 18,
+      "src": "img18-t1.png",
+      "variants": [
+        { "id": 1, "num": "А", "result": false, "order": null },
+        { "id": 2, "num": "Б", "result": true, "order": "3" },
+        { "id": 3, "num": "В", "result": true, "order": "1" },
+        { "id": 4, "num": "Г", "result": false, "order": null },
+        { "id": 5, "num": "Д", "result": true, "order": "2" }
+      ]
+    },
+    {
+      "id": 19,
+      "src": "img19-t1.png",
+      "result": 24
+    },
+    {
+      "id": 20,
+      "src": "img20-t1.png",
+      "result": 400
+    },
+    {
+      "id": 21,
+      "src": "img21-t1.png",
+      "result": 680
+    },
+    {
+      "id": 22,
+      "src": "img22-t1.png",
+      "result": 7
+    }
+  ]
 }
